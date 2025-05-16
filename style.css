@@ -124,6 +124,9 @@ h2 {
 }
 
 .footer {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
   margin: 0px;
   overflow: hidden;
   background-color: #ffffff70;
